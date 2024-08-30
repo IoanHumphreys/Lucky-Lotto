@@ -1,4 +1,4 @@
-# 🎟️ Lucky Lotto System for FiveM
+# 🎟️ Lucky Lotto 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![QBCore](https://img.shields.io/badge/qbcore-framework-green.svg)
